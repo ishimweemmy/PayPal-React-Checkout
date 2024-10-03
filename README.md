@@ -1,4 +1,4 @@
-# PayPal React (NodeJS) FullStack Standard Checkout
+# PayPal React (NodeJS) Checkout
 
 - Rename the `.env.example` file to `.env`.
 - Add your enviroment variables in the .env file.
